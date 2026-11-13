@@ -127,7 +127,7 @@ One short recording is checked three ways: **what** was said (a prompted passage
 - 🎓 **Summer Machine Learning Foundations Lab**, Break Through Tech AI Program · Summer 2026 · [View credential](https://mycredentials.ecornell.cornell.edu/credential/BwRfqdRQcI)
 - 🤖 **Break Through Tech AI/ML Fellow**, selected from 4,000+ applicants nationwide · 2026–present
 - 🚀 **BU Spark! Product Innovation Fellow** (XC 475) · Fall 2026
-- 🧠 **[Technical AI Safety Fellow](https://buaisa.org/programs/technical)**, AI Safety & Alignment at BU (AISA) · present: an 8-week program on RLHF, mechanistic interpretability, model evaluations, red-teaming and scalable oversight
+- 🧠 **[Technical AI Safety Fellow](https://buaisa.org/programs/technical)**, AI Safety & Alignment at BU (AISA) · Fall 2026–present: an 8-week program on RLHF, mechanistic interpretability, model evaluations, red-teaming and scalable oversight
 - 🇺🇸 **Coding It Forward Fellow** · Summer 2026
 - ⚡ **Hackathons:** MIT GenAI Hackathon 2026 (FrontHealth), HackBeanPot 2026 (connectHer)
 
