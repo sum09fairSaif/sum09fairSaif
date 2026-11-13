@@ -57,6 +57,7 @@ One short recording is checked three ways: **what** was said (a prompted passage
 
 | Project | What it does | Built with |
 |---|---|---|
+| **[Student Dropout Prediction](https://github.com/sum09fairSaif/iX_Class-Final-Project_Academic-Success-and-Dropout)** · iX class final project | Predicts whether a student will drop out, stay enrolled or graduate (4,424 students), so schools can flag at-risk students after the first semester. A tuned Random Forest reached 77.9% accuracy (0.80 dropout F1). The analysis found that students behind on tuition dropped out at 86.6% vs. 24.7% for those who were current. | Python · pandas · scikit-learn · Matplotlib · Seaborn |
 | **[BananaVision](https://github.com/sum09fairSaif/BananaVision)** · Coding It Forward | Mobile app that predicts a banana's ripeness, shelf life in days and nutrient profile from one photo. I trained a MobileNetV2 transfer-learning model and shipped it as quantized TensorFlow Lite. | TensorFlow Lite · FastAPI · React Native (Expo) · Render |
 | **[FrontHealth](https://github.com/sum09fairSaif/Front-Health)** · MIT GenAI Hackathon 2026 | Tracks each cancer patient's path from diagnostic referral to test completion and follow-up, with clinician and patient apps and FHIR-based data exchange. | TypeScript · PostgreSQL · Redis · Kafka · Docker · Kubernetes |
 | **[connectHer](https://github.com/sum09fairSaif/connecther)** · HackBeanPot 2026 | AI-powered prenatal fitness platform with symptom-aware workout recommendations from Gemini, and voice navigation for multilingual access. | React · TypeScript · Node.js/Express · Supabase · Auth0 · Gemini API |
@@ -82,6 +83,7 @@ One short recording is checked three ways: **what** was said (a prompted passage
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![SpeechBrain](https://img.shields.io/badge/SpeechBrain-4B8BBE?style=flat-square&logo=python&logoColor=white)
