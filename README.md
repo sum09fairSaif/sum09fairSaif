@@ -17,7 +17,7 @@ I'm a junior studying Computer Science at **Boston University** (B.A., expected 
 - 🛡️ **Building:** [VoiceGuard](https://github.com/sum09fairSaif/voiceguard), voice MFA with anti-spoofing (BU Spark! Product Innovation Fellowship, Fall 2026)
 - 🔬 **Seeking research:** research positions and fellowships in AI/ML, NLP, neural networks and data analytics, especially where AI meets healthcare, business or education
 - 🎯 **Also seeking:** Summer 2027 internships in AI, ML, data science, data analytics and software engineering
-- 🤝 **Ask me about:** being a Break Through Tech fellow, my BU Spark! Product Innovation Fellowship as a Technical Innovator, running Agile sprints as Scrum Master, or tutoring and teaching (CS112 Course Assistant and math peer tutor)
+- 🤝 **Ask me about:** being a Break Through Tech fellow, my BU Spark! Product Innovation Fellowship as a Technical Innovator, running Agile sprints as Scrum Master, or tutoring and teaching (CS112 Course Assistant and peer tutor in math and CS)
 
 ---
 
@@ -134,7 +134,7 @@ One short recording is checked three ways: **what** was said (a prompted passage
 
 ## 💡 Beyond the Code
 - 🧑‍🏫 **CS112 Course Assistant**, BU Computer Science: I support ~150 students in Java and object-oriented design through labs, office hours and grading
-- ➗ **Peer Tutor**, BU Educational Resource Center: Calculus I & II and Linear Algebra
+- ➗ **Peer Tutor**, BU Educational Resource Center (ERC): Calculus I, Calculus II, Linear Algebra and Introduction to Computer Science I (Python)
 - 🔁 **Scrum Master** for the VoiceGuard team: I run sprint planning, stand-ups, reviews and retros
 ---
 
