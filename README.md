@@ -11,7 +11,7 @@
 
 ## 🙋 About Me
 
-I'm a junior studying Computer Science at **Boston University** (B.A., expected May 2028) and an aspiring AI/ML engineer and data scientist/analyst. I build AI systems that hold up in the real world, from voice authentication that catches deepfakes to an LLM copilot that checks software requirements against NASA policy. As a **[Break Through Tech AI/ML Fellow](https://www.breakthroughtech.org/)** (selected from 4,000+ applicants), I completed the Summer Machine Learning Foundations Lab and I'm now on a Fall AI Studio team.
+I'm a junior studying Computer Science at **Boston University** (B.A., expected graduation in May 2028) and an aspiring AI/ML engineer and data scientist/analyst. I build AI systems that hold up in the real world, from voice authentication that catches deepfakes to an LLM copilot that checks software requirements against NASA policy. As a **[Break Through Tech AI/ML Fellow](https://www.breakthroughtech.org/)**, I completed the Summer Machine Learning Foundations Lab and I'm now on a Fall AI Studio team.
 
 - 🔭 **Interested in:** NLP, neural networks, speech & audio ML, data analytics, and AI/ML in healthcare, business and education
 - 🛡️ **Building:** [VoiceGuard](https://github.com/sum09fairSaif/voiceguard), voice MFA with anti-spoofing (BU Spark! Product Innovation Fellowship, Fall 2026)
