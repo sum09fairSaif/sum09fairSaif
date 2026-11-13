@@ -9,7 +9,7 @@
 
 ---
 
-## 🙋 About Me
+## 🙋🏻‍♀️ About Me
 
 I'm a junior studying Computer Science at **Boston University** (B.A., expected graduation in May 2028) and an aspiring AI/ML engineer and data scientist/analyst. I build AI systems that hold up in the real world, from voice authentication that catches deepfakes to an LLM copilot that checks software requirements against NASA policy. As a **[Break Through Tech AI/ML Fellow](https://www.breakthroughtech.org/)**, I completed the Summer Machine Learning Foundations Lab and I'm now on a Fall AI Studio team.
 
