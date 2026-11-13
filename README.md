@@ -61,6 +61,8 @@ One short recording is checked three ways: **what** was said (a prompted passage
 | **[BananaVision](https://github.com/sum09fairSaif/BananaVision)** · Coding It Forward | Mobile app that predicts a banana's ripeness, shelf life in days and nutrient profile from one photo. I trained a MobileNetV2 transfer-learning model and shipped it as quantized TensorFlow Lite. | TensorFlow Lite · FastAPI · React Native (Expo) · Render |
 | **[FrontHealth](https://github.com/sum09fairSaif/Front-Health)** · MIT GenAI Hackathon 2026 | Tracks each cancer patient's path from diagnostic referral to test completion and follow-up, with clinician and patient apps and FHIR-based data exchange. | TypeScript · PostgreSQL · Redis · Kafka · Docker · Kubernetes |
 | **[connectHer](https://github.com/sum09fairSaif/connecther)** · HackBeanPot 2026 | AI-powered prenatal fitness platform with symptom-aware workout recommendations from Gemini, and voice navigation for multilingual access. | React · TypeScript · Node.js/Express · Supabase · Auth0 · Gemini API |
+| **[Text Similarity Classifier](https://github.com/sum09fairSaif/Text-Similarity-Classifier)** · BU CS111 | Identifies which known author or source an unknown text most likely came from. It compares five statistical features (word, stem, word-length, sentence-length and vowel frequencies) using log-likelihood scoring, all built from scratch, including a custom stemmer. | Python (no NLP libraries) |
+| **[Tic-Tac-Toe with Minimax AI](https://github.com/sum09fairSaif/Tic-Tac-Toe-Java-)** | Terminal game with an unbeatable AI opponent that uses the Minimax algorithm, plus one- and two-player modes, input validation and a CSV-backed leaderboard. | Java |
 
 ---
 
