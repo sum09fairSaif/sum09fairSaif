@@ -17,7 +17,7 @@ I'm a junior studying Computer Science at **Boston University** (B.A., expected 
 - 🛡️ **Building:** [VoiceGuard](https://github.com/sum09fairSaif/voiceguard), voice MFA with anti-spoofing (BU Spark! Product Innovation Fellowship, Fall 2026)
 - 🔬 **Seeking research:** research positions and fellowships in AI/ML, NLP, neural networks and data analytics, especially where AI meets healthcare, business or education
 - 🎯 **Also seeking:** Summer 2027 internships in AI, ML, data science, data analytics and software engineering
-- 🤝 **Ask me about:** being a Break Through Tech fellow, my BU Spark! Product Innovation Fellowship as a Technical Innovator, running Agile sprints as Scrum Master, or tutoring and teaching (CS112 Course Assistant and peer tutor in math and CS)
+- 🤝 **Ask me about:** being a Break Through Tech fellow, my BU Spark! Product Innovation Fellowship as a Technical Innovator, running Agile sprints as Scrum Master, or tutoring and teaching (CS111 & CS112 Course Assistant and peer tutor in math and CS)
 
 ---
 
@@ -136,7 +136,8 @@ One short recording is checked three ways: **what** was said (a prompted passage
 ## 💡 Beyond the Code
 - 🔐 **Co-President**, BU Women in CyberSecurity (WiCyS) Student Chapter · Feb–Aug 2026. Before that I was Vice President (May 2025–Feb 2026) and Social Media Chair (Oct 2024–Apr 2025).
 - 👥 **Clubs:** BU Girls Who Code, BU Hack4Impact, BU AI/ML Society
-- 🧑‍🏫 **CS112 Course Assistant**, BU Computer Science: I support ~150 students in Java and object-oriented design through labs and office hours, and grade coding assignments, quizzes and labs with personalized feedback on code quality, style and efficiency
+- 🧑‍🏫 **Course Assistant**, BU Computer Science. **CS112** (Java & OOP, Aug 2026–present): I support ~150 students. **CS111** (Python & digital logic, Sep–Dec 2025): I helped in weekly labs of ~30 and held office hours for a 300+ student course. In both I grade coding assignments, quizzes and labs with personalized feedback on code quality, style and efficiency.
+- 🎒 **Orientation Leader** (Jul 2025–Jan 2026) and **Program Assistant, Summer Challenge** (Jun–Aug 2026), Boston University
 - ➗ **Peer Tutor**, BU Educational Resource Center (ERC): Calculus I, Calculus II, Linear Algebra and Introduction to Computer Science I (Python)
 - 🌏 **Teacher Intern**, Grameen Shikkha & Dream Hope School, Dhaka, Bangladesh · Dec 2024–Jan 2025: I taught English and math to 20–25 underprivileged 5th graders, and computer literacy and graphic design to 15–20 high school students
 - 🔁 **Scrum Master** for the VoiceGuard team: I run sprint planning, stand-ups, reviews and retros
