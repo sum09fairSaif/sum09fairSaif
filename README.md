@@ -133,6 +133,7 @@ One short recording is checked three ways: **what** was said (a prompted passage
 ---
 
 ## 💡 Beyond the Code
+- 🔐 **Co-President**, BU Women in CyberSecurity (WiCyS) Student Chapter · Feb–Aug 2026. Before that I was Vice President (May 2025–Feb 2026) and Social Media Chair (Oct 2024–Apr 2025).
 - 🧑‍🏫 **CS112 Course Assistant**, BU Computer Science: I support ~150 students in Java and object-oriented design through labs and office hours, and grade coding assignments, quizzes and labs with personalized feedback on code quality, style and efficiency
 - ➗ **Peer Tutor**, BU Educational Resource Center (ERC): Calculus I, Calculus II, Linear Algebra and Introduction to Computer Science I (Python)
 - 🔁 **Scrum Master** for the VoiceGuard team: I run sprint planning, stand-ups, reviews and retros
