@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sumehra-saif"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:sumehra@bu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:sumehra@bu.edu"><img src="https://img.shields.io/badge/BU_Email-CC0000?style=for-the-badge&logo=maildotru&logoColor=white" alt="BU email: sumehra@bu.edu"/></a>
+  <a href="mailto:saifsumehra@gmail.com"><img src="https://img.shields.io/badge/Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal email: saifsumehra@gmail.com"/></a>
 </p>
 
 ---
