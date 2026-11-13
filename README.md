@@ -127,6 +127,7 @@ One short recording is checked three ways: **what** was said (a prompted passage
 - 🎓 **Summer Machine Learning Foundations Lab**, Break Through Tech AI Program · Summer 2026 · [View credential](https://mycredentials.ecornell.cornell.edu/credential/BwRfqdRQcI)
 - 🤖 **Break Through Tech AI/ML Fellow**, selected from 4,000+ applicants nationwide · 2026–present
 - 🚀 **BU Spark! Product Innovation Fellow** (XC 475) · Fall 2026
+- 🧠 **AI Technical Fellow**, BU AISA · present
 - 🇺🇸 **Coding It Forward Fellow** · Summer 2026
 - ⚡ **Hackathons:** MIT GenAI Hackathon 2026 (FrontHealth), HackBeanPot 2026 (connectHer)
 
@@ -134,6 +135,7 @@ One short recording is checked three ways: **what** was said (a prompted passage
 
 ## 💡 Beyond the Code
 - 🔐 **Co-President**, BU Women in CyberSecurity (WiCyS) Student Chapter · Feb–Aug 2026. Before that I was Vice President (May 2025–Feb 2026) and Social Media Chair (Oct 2024–Apr 2025).
+- 👥 **Clubs:** BU Girls Who Code, BU Hack4Impact, BU AI/ML Society
 - 🧑‍🏫 **CS112 Course Assistant**, BU Computer Science: I support ~150 students in Java and object-oriented design through labs and office hours, and grade coding assignments, quizzes and labs with personalized feedback on code quality, style and efficiency
 - ➗ **Peer Tutor**, BU Educational Resource Center (ERC): Calculus I, Calculus II, Linear Algebra and Introduction to Computer Science I (Python)
 - 🌏 **Teacher Intern**, Grameen Shikkha & Dream Hope School, Dhaka, Bangladesh · Dec 2024–Jan 2025: I taught English and math to 20–25 underprivileged 5th graders, and computer literacy and graphic design to 15–20 high school students
