@@ -124,7 +124,7 @@ One short recording is checked three ways: **what** was said (a prompted passage
 ---
 
 ## 🏆 Fellowships & Certifications
-- 🎓 **Summer Machine Learning Foundations Lab**, Break Through Tech AI Program · Summer 2026
+- 🎓 **Summer Machine Learning Foundations Lab**, Break Through Tech AI Program · Summer 2026 · [View credential](https://mycredentials.ecornell.cornell.edu/credential/BwRfqdRQcI)
 - 🤖 **Break Through Tech AI/ML Fellow**, selected from 4,000+ applicants nationwide · 2026–present
 - 🚀 **BU Spark! Product Innovation Fellow** (XC 475) · Fall 2026
 - 🇺🇸 **Coding It Forward Fellow** · Summer 2026
@@ -136,6 +136,8 @@ One short recording is checked three ways: **what** was said (a prompted passage
 - 🧑‍🏫 **CS112 Course Assistant**, BU Computer Science: I support ~150 students in Java and object-oriented design through labs, office hours and grading
 - ➗ **Peer Tutor**, BU Educational Resource Center (ERC): Calculus I, Calculus II, Linear Algebra and Introduction to Computer Science I (Python)
 - 🔁 **Scrum Master** for the VoiceGuard team: I run sprint planning, stand-ups, reviews and retros
+- 💃 **Off the clock:** dancing, music, K-dramas, travel, trying new cuisines, and cafe-hopping with friends on a hunt for the best matcha 🍵
+
 ---
 
 ## 📊 GitHub Stats
